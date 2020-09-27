@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://csgsa.umn.edu/sitemap.xml

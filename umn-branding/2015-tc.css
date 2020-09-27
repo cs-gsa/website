@@ -31,7 +31,7 @@ body {
   float: none;
   clear: none;
   overflow: visible;
-  width: 1920px;
+  width: 100%;
   min-width: 0;
   max-width: none;
   height: auto;
@@ -80,7 +80,7 @@ body {
   text-align: center;
   z-index: 9999;
 }
-@media screen and (max-width: 1920px) {
+@media screen and (max-width: 100%) {
   #umnhf-h.umnhf, #umnhf-f.umnhf, #umnhf-alt.umnhf, #umnhf-uf.umnhf, #umnhf-h-ma, #umn-main {
     width: 100%;
     margin: 0;
@@ -108,7 +108,7 @@ body {
     float: left;
   }
   .printer .left:after {
-    content: url(../img/sprites/tc/M-print.png);
+    content: url(sprites/tc/M-print.png);
   }
   #umnhf-h .umnhf {
     display: none;
@@ -154,12 +154,12 @@ body {
   background-size: 288px 38px;
   /*
       @include retina {
-        background: transparent url("../img/sprites/tc/M-mrn-blk@2x.png") 0 0 no-repeat;
+        background: transparent url("sprites/tc/M-mrn-blk@2x.png") 0 0 no-repeat;
         background-size: 288px auto;
         height: 34px;
       }
       */
-  background: transparent url("../img/sprites/tc/M-mrn-blk.svg") 0 0 no-repeat;
+  background: transparent url("sprites/tc/M-mrn-blk.svg") 0 0 no-repeat;
 }
 #umnhf-h-c.umnhf {
   position: relative;
@@ -213,11 +213,11 @@ body {
   display: inline-block;
   width: 12px;
   height: 12px;
-  background: transparent url("../img/sprites/lock-search-g.png") 0 0 no-repeat;
+  background: transparent url("sprites/lock-search-g.png") 0 0 no-repeat;
 }
 @media only screen and (-webkit-min-device-pixel-ratio: 1.25), (min-resolution: 192dpi) {
   #umnhf-h-ql span {
-    background: transparent url("../img/sprites/lock-search-g@2x.png") 0 0 no-repeat;
+    background: transparent url("sprites/lock-search-g@2x.png") 0 0 no-repeat;
     background-size: 22px 34px;
     background-position: 0 0;
   }
@@ -275,11 +275,11 @@ body {
   color: #7a0019;
   border: 0;
   font: bold 0.925em/1.35em arial, helvetica, clean, sans-serif;
-  background: transparent url("../img/sprites/lock-search-g.png") 0 -12px no-repeat;
+  background: transparent url("sprites/lock-search-g.png") 0 -12px no-repeat;
 }
 @media only screen and (-webkit-min-device-pixel-ratio: 1.25), (min-resolution: 192dpi) {
   #umnhf-h-sb {
-    background: transparent url("../img/sprites/lock-search-g@2x.png") 0 -12px no-repeat;
+    background: transparent url("sprites/lock-search-g@2x.png") 0 -12px no-repeat;
     background-size: 22px 34px;
   }
 }
@@ -540,7 +540,7 @@ table.gsc-completion-container tbody tr:nth-child(2n) {
     font: 300 normal normal 28px/50px Helvetica, "Helvetica Neue", "Futura", Verdana, "Geneva", sans-serif;
   }
 }
-@media screen and (max-width: 1920px) {
+@media screen and (max-width: 100%) {
   #umnhf-alt.umnhf {
     width: 100%;
     padding: 0;
@@ -646,11 +646,11 @@ table.gsc-completion-container tbody tr:nth-child(2n) {
   display: inline-block;
   width: 12px;
   height: 12px;
-  background: transparent url("../img/sprites/lock-search-g.png") 0 0 no-repeat;
+  background: transparent url("sprites/lock-search-g.png") 0 0 no-repeat;
 }
 @media only screen and (-webkit-min-device-pixel-ratio: 1.25), (min-resolution: 192dpi) {
   #umnhf-f .f-sfs span {
-    background: transparent url("../img/sprites/lock-search-g@2x.png") 0 0 no-repeat;
+    background: transparent url("sprites/lock-search-g@2x.png") 0 0 no-repeat;
     background-size: 22px 34px;
   }
 }
@@ -786,12 +786,12 @@ table.gsc-completion-container tbody tr:nth-child(2n) {
     display: inline-block;
     width: 12px;
     height: 12px;
-    background: transparent url("../img/sprites/lock-search-g.png") 0 0 no-repeat;
+    background: transparent url("sprites/lock-search-g.png") 0 0 no-repeat;
   }
 }
 @media only screen and (max-width: 775px) and (-webkit-min-device-pixel-ratio: 1.25), (max-width: 775px) and (min-resolution: 192dpi) {
   #umnhf-f #umnhf-f-myu ul span {
-    background: transparent url("../img/sprites/lock-search-g.png") 0 0 no-repeat;
+    background: transparent url("sprites/lock-search-g.png") 0 0 no-repeat;
     background-size: 22px 34px;
   }
 }
@@ -828,7 +828,7 @@ table.gsc-completion-container tbody tr:nth-child(2n) {
     display: inline-block;
     width: 12px;
     height: 12px;
-    background: transparent url("../img/sprites/lock-search-g.png") 0 0 no-repeat;
+    background: transparent url("sprites/lock-search-g.png") 0 0 no-repeat;
   }
   #umnhf-uf-ul ul {
     padding-bottom: 0;
