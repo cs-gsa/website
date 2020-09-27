@@ -5,6 +5,15 @@ template = "index.html"
 [extra]
 +++
 
+{{ slick(images = [
+        "index/1_night_out.jpg",
+        "index/2_game_night_b.jpg",
+        "index/3_volunteer_a.jpg",
+        "index/4_game_night_c.jpg",
+        "index/5_volunteer_b.jpg",
+        "index/6_game_night_a.jpg",
+    ]) }}
+
 # Who we are?
 - The Computer Science Graduate Students Association (CSGSA) is the official student governance organization for graduate students in the Department of Computer Science and Engineering, and a registered Campus Life Program.
 - Every student in the department is automatically a member of CSGSA.

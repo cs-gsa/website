@@ -1,0 +1,20 @@
+<div class="slick" align="center">
+    {% for image in images %}
+    <div><img style="max-width: 100%;" src="{{ resize_image(path=image, width=1200, op="fit_width") }}"/></div>
+    {% endfor %}
+</div>
+<script>
+    $(document).ready(function(){
+        $('.slick').slick({
+            slidesToScroll: 1,
+            autoplaySpeed: 3000,
+            autoplay: true,
+            arrows: false,
+            dots: true,
+            infinite: true,
+            speed: 500,
+            fade: true,
+            cssEase: 'linear'
+        });
+    });
+</script>
