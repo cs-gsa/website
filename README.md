@@ -1,0 +1,3 @@
+- [x] link to global static css/js.
+- [x] nav bar.
+- [x] shortcodes.

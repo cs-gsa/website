@@ -1,0 +1,14 @@
+base_url = "https://csgsa.umn.edu/"
+compile_sass = true
+highlight_code = true
+build_search_index = true
+
+[extra]
+nav_items = [
+    { name = "Events", link = "/events"},
+    { name = "Grads", link = "/grads"},
+    { name = "People", link = "/people"},
+    { name = "Get Involved", link = "/get-involved"},
+    { name = "Feedback", link = "/feedback"},
+    { name = "FAQ", link = "/faq"},
+]
