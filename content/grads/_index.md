@@ -1,15 +1,18 @@
 +++
 title = "Grads"
+template = "grads.html"
+sort_by = "date"
 
 [extra]
 +++
 
-{{ slick(images = [
+{{
+    slick(images = [
         "grads/1.jpg",
         "grads/2.jpg",
         "grads/3.jpg",
-    ]) }}
-
+    ])
+}}
 
 # What is it?
 - The Graduate Research and Discussion Seminars (GRaDS) are student-organized lunch talks open to CS graduate students in any area.
@@ -18,3 +21,6 @@ title = "Grads"
 - It also allows the graduate student body to remain informed about the research going on in other labs at UMN.
 - GRaDS is held biweekly on Fridays, announced on the [cscigrads@umn.edu](mailto:cscigrads@umn.edu) email list.
 - Students (used to, before COVID-19) gather in Keller Hall 2-212 for a catered lunch and an hour of presentation.
+
+# Want to participate?
+- Fill out [this](http://z.umn.edu/cs-grads) form.
