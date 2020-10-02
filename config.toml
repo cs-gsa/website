@@ -7,6 +7,7 @@ build_search_index = true
 nav_items = [
     { name = "Events", link = "/events"},
     { name = "Grads", link = "/grads"},
+    { name = "Calendar", link = "/calendar"},
     { name = "People", link = "/people"},
     { name = "Get Involved", link = "/get-involved"},
     { name = "Feedback", link = "/feedback"},
