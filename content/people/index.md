@@ -62,6 +62,7 @@ Zach is a Computer Science PhD Candidate whose research focuses on enabling effi
 
 # Deb Das, Events Coordinator
 Ph.D. student focusing on natural language processing.
+
 <das00015@umn.edu>
 
 {{ image(image="/people/deb.jpg") }}
