@@ -5,7 +5,6 @@
 
 ## code
 - The website uses `zola` static site generator.
-- Find a tutorial for `zola` [here](https://www.getzola.org/).
 - `master` branch of this repo contains the source code.
 - `gh-pages` contains the generated site and is served using github pages.
 
@@ -15,7 +14,7 @@
 ## usage
 
 ### how to make changes?
-- Learn `zola`.
+- Learn `zola`. Find a tutorial for `zola` [here](https://www.getzola.org/).
 - Make changes in source code (`master` branch).
 - After making changes, make sure the umn branding rules are adhered to, which can be found [here](https://university-relations.umn.edu/resources/website-header-footer-and-templates).
     - The site can be revoked if these are not adhered to.
