@@ -1,7 +1,7 @@
-# csgsa website
+# website
 
 ## description
-- The csgsa website
+- The csgsa website.
 
 ## code
 - The website uses `zola` static site generator.
