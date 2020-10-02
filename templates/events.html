@@ -9,15 +9,12 @@
     <div class="pure-u-md-1-5"></div>
     <div class="pure-u-1 pure-u-md-3-5">
         {{ section.content | safe }}
-        <h1>List of previous GRaDS talks</h1>
         <ul>
             {% for page in section.pages %}
             <li>
                 <a href="{{ page.permalink | safe }}">
                     {{ page.title }} ({{ page.date }})
-                </a>
-                <br/>
-                by {{ page.extra.speaker }}.
+                </a>.
             </li>
             {% endfor %}
         </ul>

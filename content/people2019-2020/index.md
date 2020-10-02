@@ -4,7 +4,7 @@ title = "People 2019-2020"
 [extra]
 +++
 
-# C. Estelle Smith, President
+## C. Estelle Smith, President
 
 {{ image(image="estelle.jpg") }}
 
@@ -12,7 +12,7 @@ Estelle is a Computer Science PhD student with a Human-Computer Interaction (HCI
 
 Get in touch with Estelle at [smit3694@u](mailto:smit3694@umn.edu).
 
-# Jungseok Hong, Vice President
+## Jungseok Hong, Vice President
 
 {{ image(image="jungseok.jpg") }}
 
@@ -20,7 +20,7 @@ Jungseok is a Computer Science Ph.D. candidate focusing on robotics and a member
 
 Get in touch with Jungseok at [hong0442@umn.ed](mailto:hong0442@umn.edu).
 
-# Patrick Perez, Secretary
+## Patrick Perez, Secretary
 
 {{ image(image="patrick.png") }}
 
@@ -28,13 +28,13 @@ Patrick is a Computer Science Phd Student advised by Maria Gini (Computer Scienc
 
 Get in touch with Patrick at [perez765@umn.edu](mailto:perez765@umn.edu).
 
-# Libby Ferland, Treasurer
+## Libby Ferland, Treasurer
 
 Libby is a Computer Science Ph.D. candidate focusing on natural language processing and assistive technology design. She is advised by Maria Gini and part of the UMN Chatbot group. Her research focuses on user intent recognition and preference learning through dialogue, as well as relational agents for mental health and older users. She is co-advised by Wilma Koutstaal, a professor of psychology. She enjoys languages, crafting, art, music, and exploring new things
 
 Get in touch with Libby at [ferla006@umn.edu](mailto:ferla006@umn.edu).
 
-# Michael Fulton, GRaDS Coordinator
+## Michael Fulton, GRaDS Coordinator
 
 {{ image(image="micheal.png") }}
 
@@ -43,7 +43,7 @@ Michael is a Computer Science PhD candidate focusing on robotics. As a member of
 Get in touch with Michael at [fulto081@umn.edu]("mailto:fulto081@umn.edu).
 
 
-# Eman Ramadan, Social Coordinator
+## Eman Ramadan, Social Coordinator
 
 {{ image(image="eman.png") }}
 
@@ -51,7 +51,7 @@ Eman is a Computer Science PhD candidate focusing on Networks and a member of th
 
 Get in touch with Eman at [sheha008@umn.edu](mailto:sheha008@umn.edu).
 
-# Mo Houtti, Slack Coordinator
+## Mo Houtti, Slack Coordinator
 
 {{ image(image="mo.jpg") }}
 
@@ -59,7 +59,7 @@ Mo (left) is a Computer Science PhD student in GroupLens Research, with a focus 
 
 Get in touch with Mo at [houtt001@umn.edu](mailto:houtt001@umn.edu).
 
-# Yashasvi Sriram Patkuri, Web Coordinator
+## Yashasvi Sriram Patkuri, Web Coordinator
 
 {{ image(image="yash.png") }}
 

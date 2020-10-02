@@ -1,6 +1,7 @@
 +++
 title = "Grads"
 template = "grads.html"
+page_template = "grads_page.html"
 sort_by = "date"
 
 [extra]
