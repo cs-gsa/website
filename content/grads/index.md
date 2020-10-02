@@ -4,6 +4,13 @@ title = "Grads"
 [extra]
 +++
 
+{{ slick(images = [
+        "grads/1.jpg",
+        "grads/2.jpg",
+        "grads/3.jpg",
+    ]) }}
+
+
 # What is it?
 - The Graduate Research and Discussion Seminars (GRaDS) are student-organized lunch talks open to CS graduate students in any area.
 - Students speak at GRaDS to practice for conference or job talks, inform their fellow students on their research, or simply build their presentation skills.
