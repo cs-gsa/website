@@ -7,6 +7,9 @@ time = "Friday, October 2nd, at 6pm UMN Time"
 location = "Zoom (link will be posted in Slack just prior to event)"
 +++
 
+# winner
+Nathan Ringo for :ewok-van-wyk:
+
 Hey everybody!
 
 It's my pleasure to unveil the __VERY FIRST CSGSA FALL 2020 EVENT!__
@@ -36,6 +39,3 @@ At the event, we will go around on Zoom and everyone can share their Professormo
 All participants will vote to determine the prize winner.
 
 Those unable to present on Zoom can still post to Slack and be eligible for the prize.
-
-# winner
-Nathan Ringo for :ewok-van-wyk:
