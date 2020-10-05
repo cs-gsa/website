@@ -7,8 +7,16 @@ time = "Friday, October 2nd, at 6pm UMN Time"
 location = "Zoom (link will be posted in Slack just prior to event)"
 +++
 
+---
+
 # winner
-Nathan Ringo for :ewok-van-wyk:
+`Nathan Ringo` for
+
+{{ image(image="ewok-van-wyk.png") }}
+
+`ewok-van-wyk`.
+
+---
 
 Hey everybody!
 
