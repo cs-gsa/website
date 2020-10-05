@@ -36,3 +36,6 @@ At the event, we will go around on Zoom and everyone can share their Professormo
 All participants will vote to determine the prize winner.
 
 Those unable to present on Zoom can still post to Slack and be eligible for the prize.
+
+# winner
+Nathan Ringo for :ewok-van-wyk:
