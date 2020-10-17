@@ -25,6 +25,4 @@ when other, unknown extensions are added to the language.
 Dawn Michaelson is a fourth-year graduate student officially advised by Eric
 Van Wyk and unofficially advised by Gopalan Nadathur.  She is working on proving
 metatheoretic properties of extensible languages and using monads implicitly in
-attribute grammars.  She is originally from Wisconsin.  A picture of Dawn is
-attached.
-
+attribute grammars.  She is originally from Wisconsin.
