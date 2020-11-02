@@ -9,6 +9,10 @@ location = "Zoom (link will be posted in Slack just prior to event)"
 
 ---
 
+{{ image(image="1.png") }}
+
+{{ image(image="2.png") }}
+
 Hello everyone,
 
 Hope your semester is going well.
