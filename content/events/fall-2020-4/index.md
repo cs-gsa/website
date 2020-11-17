@@ -1,9 +1,9 @@
 +++
 title = "Scavenger Hunt"
-date = 2020-11-16
+date = 2020-11-23
 
 [extra]
-time = "Nov 16 (the end date)"
+time = "Nov 23 (the end date)"
 location = "N/A"
 +++
 
@@ -23,7 +23,7 @@ This activity should help new students to get familiar with their neighborhoods 
 
 When you have taken all of your photos, send them and their locations (txt file) in a zip folder to the CSGSA email account (cs-gsa@umn.edu).
 
-The event runs until November 16th. All photos should be ‘selfies’, i.e., they must contain the participant.
+The event runs until November 23rd. All photos should be ‘selfies’, i.e., they must contain the participant.
 
 ## Prizes (Per person, Starbucks or Caribou Gift Cards)
 
