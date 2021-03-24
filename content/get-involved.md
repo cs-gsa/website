@@ -10,7 +10,6 @@ Currently there are 5 types of roles in CSGSA. The overview of these roles can b
 - [Treasurer](https://docs.google.com/document/d/1nVOlEZCVg9OseLd-Wk6E8so1d8oQiA_PZMVoRxqx6Wo/edit?usp=sharing).
 - [Grads co-ordinators](https://docs.google.com/document/d/1U5-JKQEGx0BKUoah96bPKmfmatj-3Hv4LLgjkDRaEj4/edit?usp=sharing).
 - [Event co-ordinators](https://docs.google.com/document/d/1a_Manol9ZXzg0mdDYqgz3XxQfCmjsWA5_YsGhtQaVd8/edit?usp=sharing).
-- [Lab ambassadors](https://docs.google.com/document/d/1Cqtd27HdDJnnxJSGa9yyn6IlyxsiMfB7flks8cg-hIc/edit?usp=sharing).
 
 The detailed role descriptions can be found by clicking on them.
 
