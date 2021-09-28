@@ -24,4 +24,5 @@ sort_by = "date"
 - Students gather in KH 2-225 for a catered lunch and an hour of presentation during Fall 2021.
 
 # Want to participate?
-- Fill out [this](http://z.umn.edu/cs-grads) form.
+- ~Fill out [this](https://forms.gle/573GPAVCeaTNcE5f6) form.~
+- The slots for Fall 2021 is filled.
