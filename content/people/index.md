@@ -9,7 +9,7 @@ title = "People"
 ## Libby Ferland, President
 PhD Candidate working in NLP and HCI
 
-<harwe006@umn.edu>
+<ferla006@umn.edu>
 
 {{ image(image="") }}
 
@@ -65,7 +65,7 @@ Deb likes organizing events that encourage students in Computer Science to pursu
 
 # Allie Hanson, Events Coordinator
 
-<>
+<hans7203@umn.edu>
 
 {{ image(image="hanson.jpg") }}
 
