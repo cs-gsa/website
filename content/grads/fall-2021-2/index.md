@@ -1,6 +1,6 @@
 +++
 title = "A Distributed Ledger-Based Framework for IoT Security and Privacy"
-date = 2021-09-24
+date = 2021-10-08
 
 [extra]
 speaker = "Yixuan Wang"
