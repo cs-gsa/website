@@ -21,8 +21,7 @@ sort_by = "date"
 - As a more informal venue than most, GRaDS is a great resource for students to practice important talks and get feedback from their peers.
 - It also allows the graduate student body to remain informed about the research going on in other labs at UMN.
 - GRaDS is held biweekly on Fridays, announced on the [cscigrads@umn.edu](mailto:cscigrads@umn.edu) email list.
-- Students gather in KH 2-225 for a catered lunch and an hour of presentation during Fall 2021.
+- Students gather in KH 2-225 for a catered lunch and an hour of presentation during Spring 2022.
 
 # Want to participate?
-- ~Fill out [this](https://forms.gle/573GPAVCeaTNcE5f6) form.~
-- The slots for Fall 2021 is filled.
+- The slots for Spring 2022 are filled.
