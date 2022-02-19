@@ -20,8 +20,7 @@ template = "index.html"
 - Officers are elected annually, and are in charge of fulfilling CSGSA’s goals in the most fun way possible!
 - Find information about current officers @ [people](/people).
 - If you're interested in becoming an officer go to [get-involved](/get-involved) page.
-- For complete details, check out [the CSGSA constitution](https://drive.google.com/file/d/112aBo3FLgu9qcMN4709y0z4Kqr5LzhKe/view?usp=sharing) and our annual [calendar of events](https://drive.google.com/file/d/1LhfdExLNji5KUSDef3rLYIWhiCw_jVjo/view?usp=sharing).
-- For a condensed version of this same information, look at [short slide deck](https://drive.google.com/file/d/1wNNfYyOI78fvNLCr9jwzZuKPpjbeesHx/view?usp=sharing) that describes our organizational structure.
+- For complete details, check out [the CSGSA constitution](https://drive.google.com/file/d/1DAWyU0m-PBt2xyBvZ7ibj3jp__U02gG-/view?usp=sharing).
 
 # Our goals
 - Facilitate meaningful social connections between CS graduate students.
