@@ -1,5 +1,5 @@
 +++
-title = "Grads"
+title = "GRaDS"
 template = "grads.html"
 page_template = "grads_page.html"
 sort_by = "date"
