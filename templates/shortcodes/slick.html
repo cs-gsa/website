@@ -1,6 +1,7 @@
 <div class="slick" align="center">
     {% for image in images %}
-    <div><img style="max-width: 100%;" src="{{ resize_image(path=image, width=1200, op="fit_width") }}"/></div>
+        {% set imagetest = resize_image(path=image, width=1200, op="fit_width") %}
+        <div><img style="max-width: 100%;" src="{{imagetest.url}}" alt="csgsa_images"></div>
     {% endfor %}
 </div>
 <script>
