@@ -7,8 +7,11 @@ time = "Saturday, February 12th"
 location = "Coon Rapids, MN"
 +++
 
----
+
+{{ image(image="FMSC_Feb10_22.jpg") }}
+
+
 
 Event Organizer: Risako Owan
 
-More details and stats coming soon!!!
+Attendee count: 8
