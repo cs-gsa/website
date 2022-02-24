@@ -39,7 +39,7 @@ Dawn is advised by Eric Van Wyk and Gopalan Nadathur, working on proving metathe
 
 <sreek012@umn.edu>
 
-{{ image(image="sreekumar.jpg") }}
+{{ image(image="sreekumar.png") }}
 
 Nikhil Sreekumar (Nick), is a 3rd year PhD student researching Storage in Edge Computing. He hails from the green state of Kerala, India, also known as God's Own Country. He is advised by Dr. Abhishek Chandra and Dr. Jon Weissman of the Distributed Computing Systems Group. Nikhil does pencil drawing, coloring and watching series/anime during his spare time. He likes to do one day travels and hikes with groups of enthusiastic people. Nikhil did his Masters and Bachelors in India.
 
