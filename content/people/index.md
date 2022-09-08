@@ -6,62 +6,66 @@ title = "People"
 
 # Current officers
 
-## Libby Ferland, President
-PhD Candidate working in NLP and HCI
+## Ethan Kulman, President
+PhD student studying Computational Genomics.
 
-<ferla006@umn.edu>
+<kulma009@umn.edu>
 
-{{ image(image="") }}
+{{ image(image="ethan.png") }}
 
-Libby is a PhD candidate interested in NLP and HCI.  Her research focuses on questions of self-disclosure and the design of conversational agents to support older users.
-In her free time, Libby enjoys reading, knitting, and going for walks.
+Ethan is a 2nd year PhD student studying Computational Genomics under the supervision of Dr. Rui Kuang. He is particularly interested in modeling the biological mechanisms of cancer, i.e., what causes cancer initiation, metastasis, relapse, etc. Ethan wants to help foster a fun, inclusive environment for graduate students in the Department of Computer Science and Engineering (CSE). He’s very open to ideas about how to go about doing this, and encourages any student in CSE to share their thoughts and experiences with the CSGSA leadership team. Ethan’s biggest hobby is hiking, and is currently working on hiking the highest peak in all 50 U.S. states. When he’s not doing some outdoor activity, you’ll find him trying new restaurants in the Twin Cities, at the university gym or nearby rock climbing gym, or taking care of his new Golden Retriever puppy.
 
 ## Risako Owan, Treasurer
-3rd-year PhD student working in NLP and Affective Computing.
+PhD student working in NLP and Affective Computing.
 
 <owan0002@umn.edu>
 
-{{ image(image="risako.jpg") }}
+{{ image(image="") }}
 
-Hi, my name is Risako and I’m a 2nd-year PhD student working in NLP and affective computing. I enjoy going to the gym, self-learning on YouTube, and reading (mostly Japanese fiction and English nonfiction). Due to the pandemic, I’ve also started growing some plants; I have a pet lemon tree that has only given me one-inch lemons so far and some rice stalks growing in a bowl (my ancestors would be so proud). I graduated from Carleton College, which is about an hour south of here, and worked in the Bay Area as a software engineer before coming back to Minnesota for grad school.
+Hi, my name is Risako and I’m a 4th-year PhD student working in NLP and affective computing. I enjoy going to the gym, self-learning on YouTube, and reading (mostly Japanese fiction and English nonfiction). Due to the pandemic, I’ve also started growing some plants; I have a pet lemon tree that has only given me one-inch lemons so far and some rice stalks growing in a bowl (my ancestors would be so proud). I graduated from Carleton College, which is about an hour south of here, and worked in the Bay Area as a software engineer before coming back to Minnesota for grad school.
 
-## Dawn Michaelson, GRaDS Coordinator
-5th Year PhD working in Programming Languages.
+## Jason Carpenter, GRaDS Coordinator
+5th Year PhD working in Networking, Zhi-Li Zhang's Networking Lab.
 
-<micha576@umn.edu>
+<CARPE415@umn.edu>
 
-{{ image(image="dawn.jpg") }}
+{{ image(image="jason.jpg") }}
 
-Dawn is advised by Eric Van Wyk and Gopalan Nadathur, working on proving metatheoretic properties of extensible languages and using monads implicitly in attribute grammars.  She is originally from western Wisconsin.
+Jason is a 5th year PhD, working in emerging network architectures both in terms of hardware technologies (such as 5G) and information handling (such as semantic web). Jason is a native of the La Crosse, Wisconsin area.
 
-## Nikhil Sreekumar, GRaDS Coordinator
-3rd year PhD working in Storage Management at the Edge.
+## Karin de Langis, GRaDS Coordinator
 
-<sreek012@umn.edu>
+<dento019@umn.edu>
 
-{{ image(image="sreekumar.png") }}
+{{ image(image="") }}
 
-Nikhil Sreekumar (Nick), is a 3rd year PhD student researching Storage in Edge Computing. He hails from the green state of Kerala, India, also known as God's Own Country. He is advised by Dr. Abhishek Chandra and Dr. Jon Weissman of the Distributed Computing Systems Group. Nikhil does pencil drawing, coloring and watching series/anime during his spare time. He likes to do one day travels and hikes with groups of enthusiastic people. Nikhil did his Masters and Bachelors in India.
+## Charlie Broadbent, Events coordinator
+PhD student studying Computational Biology.
 
-## Sai Sundar, Events Coordinator
-2nd Year Masters in Data Science interested in Statistics, Data Engineering and Data Visualization
+<broad123@umn.edu>
 
-<sunda127@umn.edu>
+{{ image(image="charlie.png") }}
 
-{{ image(image="sai.jpg") }}
+Charlie is starting his third year as a PhD student as an advisee of Dr. Rui Kuang. His current research interests are in spatial transcriptomics, tensor decomposition and completion methods, and traumatic brain injury (TBI) classification and analysis. In his free time he enjoys playing piano, bouldering, board games, video games, and spending time with his cat Raven.
 
-Sai  is a Data Science Masters student with current research interests in Data Visualization and Data Engineering. He loves the outdoors just as much as the indoors, i.e., he would be down to go for hike just as much as staying indoors and playing video games. He is a huge film and music nerd. Also, he enjoys sports and currently focuses on weightlighting, badminton and squash. Most importantly, he enjoys learning new things, no matter the topic. 
+## Camden Sikes, Events Coordinator
+PhD Student studying spectral graph theory.
 
-## Deb Das, Events Coordinator
-Ph.D. student focusing on natural language processing.
+<sikes012@umn.edu>
 
-<das00015@umn.edu>
+{{ image(image="camden.png") }}
 
-{{ image(image="deb.jpg") }}
+Camden is a third year PhD student advised by Dr. Yousef Saad. He hopes to help build community to make this program easier and more enjoyable for everyone. In addition to making the staple events like coffee hour better, he plans on organizing outdoor events for every season.
 
-Deb (She/ Her) is a Ph.D. student interested in applied NLP. She has been a member of the CSGSA during the virtual year 2020-2021 and organized several events to facilitate both student socialization and creativity. As the Graduate Coordinator for the Women in computer science (2019-2021), Deb has organized several initiatives to increase inclusivity and representation of women in research. She is a member of the departmental CS-IDEA group focusing on the diversity and inclusiveness of students (feel free to contact her to know more about any of these organizations)!
-Deb likes organizing events that encourage students in Computer Science to pursue hobbies other than their primary research. She is passionate about research exposure to women and non-binary students in CS and is passionate about initiatives that foster the same.Deb (She/ Her) is a Ph.D. student interested in applied NLP. She has been a member of the CSGSA during the virtual year 2020-2021 and organized several events to facilitate both student socialization and creativity. As the Graduate Coordinator for the Women in computer science (2019-2021), Deb has organized several initiatives to increase inclusivity and representation of women in research. She is a member of the departmental CS-IDEA group focusing on the diversity and inclusiveness of students (feel free to contact her to know more about any of these organizations)!
-Deb likes organizing events that encourage students in Computer Science to pursue hobbies other than their primary research. She is passionate about research exposure to women and non-binary students in CS and is passionate about initiatives that foster the same.
+
+## Daniel Keyes, Events Coordinator
+PhD student studying Virtual Reality.
+
+<keyes135@umn.edu>
+
+{{ image(image="daniel.png") }}
+
+Daniel is a 4th year PhD student studying VR interaction techniques in Evan Suma Rosenberg’s lab, and this is his 2nd year as a CSGSA event coordinator. He knows that grad school is tough, so he likes to host events that let students get together, relax, and socialize. Look for him at happy hours and board game night! He also likes to cook in his free time.
 
 # Allie Hanson, Events Coordinator
 
@@ -69,10 +73,13 @@ Deb likes organizing events that encourage students in Computer Science to pursu
 
 {{ image(image="hanson.jpg") }}
 
-Allie (she/her/hers) is a second year PhD student advised by Eric Van Wyk. Her research interests are in programming languages and formal methods; She is specifically interested in specifications for extensible languages and ensuring their correctness, as well as the correctness of the software created with these tools.
+Allie (she/her/hers) is a third year PhD student advised by Eric Van Wyk. Her research interests are in programming languages and formal methods; She is specifically interested in specifications for extensible languages and ensuring their correctness, as well as the correctness of the software created with these tools.
 Some things she enjoy include: her little doggy Basil, trying new and delicious foods, knitting, thrift-shopping, creative writing, reading comic books, and drinking coffee!
 # Previous officers
 
+- [CSGSA Officers of 2022-2023](/people2022-2023).
+- [CSGSA Officers of 2021-2022](/people2021-2022).
 - [CSGSA Officers of 2020-2021](/people2020-2021).
 - [CSGSA Officers of 2019-2020](/people2019-2020).
+
 

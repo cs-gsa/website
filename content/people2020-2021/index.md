@@ -20,7 +20,7 @@ My name is John Harwell (though I usually go by John The Conquerer, Destroyer of
 
 <owan0002@umn.edu>
 
-{{ image(image="risako.jpg") }}
+{{ image(image="") }}
 
 Hi, my name is Risako and I’m a 2nd-year PhD student working in NLP and affective computing. I enjoy going to the gym, self-learning on YouTube, and reading (mostly Japanese fiction and English nonfiction). Due to the pandemic, I’ve also started growing some plants; I have a pet lemon tree that has only given me one-inch lemons so far and some rice stalks growing in a bowl (my ancestors would be so proud). I graduated from Carleton College, which is about an hour south of here, and worked in the Bay Area as a software engineer before coming back to Minnesota for grad school.
 

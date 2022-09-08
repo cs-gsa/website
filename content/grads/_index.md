@@ -24,4 +24,4 @@ sort_by = "date"
 - Students gather in KH 2-225 for a catered lunch and an hour of presentation during Spring 2022.
 
 # Want to participate?
-- The slots for Spring 2022 are filled.
+- Fill out this form(https://docs.google.com/forms/d/1wBx1RzHn9BpL9Vag7WxOLNCKIhXQ-GBSx7McsaFjqo4/edit) to indicate what you wish to present and if there is space we will schedule you.
